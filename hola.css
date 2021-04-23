@@ -1,0 +1,27 @@
+body {
+margin: 0;
+    padding: 0;
+    background:url(lo2.gif);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    color:#BLACK;
+}
+h1 {
+  text-align: center;
+  background:url(qq.JPG);
+}
+h2 {
+  text-align: center;
+  background:url(qq.JPG);
+}
+
+b {
+ 
+  background:url(descarga.png);
+}
+h4 {
+  
+  background:url(descarga.png);
+}
+
